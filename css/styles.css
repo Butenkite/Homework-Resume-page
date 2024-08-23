@@ -122,10 +122,10 @@ header h1 {
 
 @media screen and (min-width: 960px) {
   body {
-    padding: 200px 0px;
+    padding: 100px 0px;
   }
   main {
-    padding: 125px 25px;
+    padding: 75px 25px;
   }
 
   img {
